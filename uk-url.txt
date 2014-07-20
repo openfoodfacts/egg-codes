@@ -1,2 +1,43 @@
 http://www.egginfo.co.uk/egg-codes-and-quality
 http://www.lioneggfarms.co.uk/information/egg-codes/
+
+Laid in Britain list
+
+Organic	 
+0	UK	15813	
+0	UK	19378 
+0	UK	20621	 	
+Free Range	 
+1	UK	11780
+1	UK	12355
+1	UK	12888
+1	UK	13590
+1	UK	14238
+1	UK	15054
+1	UK	15961
+1	UK	17357
+1	UK	17694
+1	UK	17701
+1	UK	19851
+1	UK	20837
+1	UK	20997
+1	UK	21598
+1	UK	21716
+1	UK	22056
+1	UK	10065
+1	UK	11550
+1	UK	11776	 	 	
+Colony
+3	UK	11550"
+3	UK	11598"
+3	UK	11776"
+3	UK	11992"
+3	UK	12220"
+3	UK	12422"
+3	UK	12458"
+3	UK	12843"
+3	UK	12888"
+3	UK	17011"
+3	UK	10038"
+3	UK	10160"
+3	UK	11193"
