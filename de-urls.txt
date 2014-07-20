@@ -1,0 +1,72 @@
+http://www.was-steht-auf-dem-ei.de/home/was-steht-auf-dem-ei/ - German database
+http://www.bauernhof.net/tierhaltung/eierkennzeichnung/freiwillig.htm additional mark guidelines
+
+
+Das Kennzeichnungssystem
+Um ein Höchstmaß an Transparenz für den Verbraucher zu schaffen, gibt ein umfassendes Kennzeichnungssystem detailliert Auskunft über die Herkunft der Eier. 
+So werden Eier in Europa gekennzeichnet 
+Seit dem 01. Januar 2004 müssen alle Eier in Europa mit einer einheitlichen Kennzeichnung bedruckt werden. 
+ 
+Die Kennzeichnung setzt sich aus drei Zeichenfolgen zusammen.
+ 
+Beispiel: 1-DE-1234501
+ 
+Die erste Zahl stellt die Haltungsform dar:
+0 - Biohaltung
+1 - Freilandhaltung
+2 - Bodenhaltung
+3 - Käfighaltung
+ 
+Die Buchstabenkombination zeigt das Herkunftsland:
+AT - Österreich
+BE - Belgien
+BG - Bulgarien
+CY - Zypern
+CZ - Tschechische Republik
+DE - Deutschland
+DK - Dänemark
+EE - Estland
+ES - Spanien
+FI - Finnland
+FR - Frankreich
+GR - Griechenland
+HR - Kroatien
+HU - Ungarn
+IE - Irland
+IT - Italien
+LT - Litauen 
+LU - Luxemburg
+LV - Lettland
+MT - Malta
+NL - Niederlande
+PL - Polen
+PT - Portugal
+RO - Rumänien
+SE - Schweden
+SI - Slowenien
+SK - Slowakei
+UK - Vereinigtes Königreich
+ 
+Dann folgt die Legebetriebsnummer mit Stallnummer (letzte Ziffer).
+ 
+In Deutschland kann anhand der ersten beiden Ziffern der Legebetriebsnummer auf das Bundesland. geschlossen werden: 
+ 
+01 - Schleswig-Holstein
+02 - Hamburg
+03 - Niedersachsen
+04 - Bremen
+05 - Nordrhein-Westfalen
+06 - Hessen
+07 - Rheinland-Pfalz
+08 - Baden-Württemberg
+09 - Bayern
+10 - Saarland
+11 - Berlin
+12 - Brandenburg
+13 - Mecklenburg-Vorpommern
+14 - Sachsen
+15 - Sachsen-Anhalt
+16 - Thüringen
+ 
+Hinweis: In Italien und Frankreich werden auch Buchstaben zur Identifizierung des Betriebes verwendet.
+Zum Beispiel: 1-IT-123AB456 oder 1-FR-ABC01 
